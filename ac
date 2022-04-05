@@ -1,95 +1,95 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng17ChYsiVNv2NcJOGhjHIWds9l6GzzyEhIZMV-qA=s900-c-k-c0x00ffffff-no-rj",0# 1080
+#EXTINF:-1,tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng17ChYsiVNv2NcJOGhjHIWds9l6GzzyEhIZMV-qA=s900-c-k-c0x00ffffff-no-rj"group-title="TV",0# 1080
 864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",M. La Liga 1080 MultiAudio
+#EXTINF:-1,tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg"group-title="LIGA",M. La Liga 1080 MultiAudio
 6904a8e397fe51013aa974f6d1293d8a889836e6
-#EXTINF:-1,M. La Liga 1080 MultiAudio
+#EXTINF:-1,group-title="LIGA",M. La Liga 1080 MultiAudio
 2b16391b15b98bd06576cfb7f7be400d3f78f2d1
-#EXTINF:-1,M.La Liga 720
+#EXTINF:-1,group-title="LIGA",M.La Liga 720
 ffc077d6cc2acd501c539b51b9c4fbc106b369c3
-#EXTINF:-1,M.La Liga 720
+#EXTINF:-1,group-title="LIGA",M.La Liga 720
 df139bbcd7ae6825b46d5955c52d639f1215346a
-#EXTINF:-1,M.La Liga 720
+#EXTINF:-1,group-title="LIGA",M.La Liga 720
 0ce1373e072d1e8fe6bfb1129d1e11c11c8fe93d
-#EXTINF:-1,tvg-logo="https://laligatvbar.es/meta-image.jpg",Liga Tv Bar 1080
+#EXTINF:-1,group-title="LIGA"tvg-logo="https://laligatvbar.es/meta-image.jpg"group-title="LIGA",Liga Tv Bar 1080
 608ffde844a8e6f4f7c7fb9783aa3459c818b9f8
-#EXTINF:-1,Liga Tv Bar 1080
+#EXTINF:-1,group-title="LIGA"Liga Tv Bar 1080
 268361065992567230d35c0d62f02ffdebe8be2d
-#EXTINF:-1,tvg-logo="https://www.socialcreator.com/srv/imgs/html/154415/04%20LA%20LIGA%201.png",M. La Liga 1 1080
+#EXTINF:-1,tvg-logo="https://www.socialcreator.com/srv/imgs/html/154415/04%20LA%20LIGA%201.png"group-title="LIGA",M. La Liga 1 1080
 4229d640fecf3c0897674241bcf851b67f4310e3
-#EXTINF:-1,tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_2.png",M.La Liga 2 1080
+#EXTINF:-1,tvg-logo="https://tvepg.eu/img/spain/logo/movistar_laliga_2.png"group-title="LIGA",M.La Liga 2 1080
 ed147166c7df93f7aecba44d4e2fc9383d028218
-#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjqHq0ukg854uFAnCnXi7wTr12HBedFpWQ6Q6Ir5_LZk7h8i9CKm8a3dqb5LakAiJw7A&usqp=CAU",M.La Liga 3 1080
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjqHq0ukg854uFAnCnXi7wTr12HBedFpWQ6Q6Ir5_LZk7h8i9CKm8a3dqb5LakAiJw7A&usqp=CAU"group-title="LIGA",M.La Liga 3 1080
 e693d6b35ee9dc2c6a0d0593edec281268e79440
-#EXTINF:-1,tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/vamosplu-s-_.gif",# Vamos 1080
+#EXTINF:-1,tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/vamosplu-s-_.gif"group-title="LIGA"group-title="DEPORTES",# Vamos 1080
 069431a1199eb2545a14c0a724095e57bdc58e9c
-#EXTINF:-1,# Vamos 1080
+#EXTINF:-1,group-title="DEPORTES",Vamos 1080
 2dbea1288c3bad4a8faab395249fb5e5edfde4b6
-#EXTINF:-1,VAMOS 720
+#EXTINF:-1,group-title="DEPORTES",VAMOS 720
 e11b0f286f248d889a3ab95557f241bb3f816600
-#EXTINF:-1,VAMOS SD
+#EXTINF:-1,group-title="DEPORTES",VAMOS SD
 0fdcd632dc776bc44ab2f474a6d079820d80132f
-#EXTINF:-1,tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png",M. Deportes 1080
+#EXTINF:-1,tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png"group-title="DEPORTES",M. Deportes 1080
 9a68bf410d49d4d140217cfd576cc99e927f1cd6
-#EXTINF:-1,M. Deportes 1 1080
+#EXTINF:-1,group-title="DEPORTES",M. Deportes 1 1080
 b2c349035181772990ef2acba88a582833667f88
-#EXTINF:-1,M. Deportes 2 1080
+#EXTINF:-1,group-title="DEPORTES",M. Deportes 2 1080
 ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6
-#EXTINF:-1,M. Deportes  3  SD
+#EXTINF:-1,group-title="DEPORTES",M. Deportes  3  SD
 d357998908bf0986f5ae2714e0ef471d2e74ceca
-#EXTINF:-1,M. Liga de Campeones 1080
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 1080
 3484a8b98af044d885fdc5f77e6e46a1506cbcf6
-#EXTINF:-1,tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Movistar-Liga-de-Campeones.jpg",M. Liga de Campeones 1080 
+#EXTINF:-1,group-title="CHAMPIONS"tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Movistar-Liga-de-Campeones.jpg",M. Liga de Campeones 1080 
 aedf221240a0f8513d90b555bf1b6e5306ac1e76
-#EXTINF:-1,M. Liga de Campeones 720
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 720
 aedf221240a0f8513d90b555bf1b6e5306ac1e7
-M. Liga de Campeones 720
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 720
 d7af0bb93ed089d3b1cd733feb7372305126aabc
-#EXTINF:-1,M. Liga de Campeones 1 1080
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 1 1080
 836b3aa3e4dfef6b02479a9df15b464cbbef9d26
-#EXTINF:-1,M. Liga de Campeones 1  720
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 1  720
 b9cc8b9cc719992677637b1b7e9dbf871a638181
-#EXTINF:-1,M. Liga de Campeones 2 1080
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 2 1080
 3e35e555174b8bbfa642cf88c5a9ab4ee401f350
-#EXTINF:-1,M. Liga de Campeones 3 1080
+#EXTINF:-1,group-title="CHAMPIONS",M. Liga de Campeones 3 1080
 a5d22610cb7bd5608c14249e3984bacb54dfe487
-#EXTINF:-1,http://meteoalcorcon.es/1_0_1_7789_424_1_C00000_0_0_0.png,M. Golf 1080
+#EXTINF:-1,tvg-logo="http://meteoalcorcon.es/1_0_1_7789_424_1_C00000_0_0_0.png"group-title="DEPORTES",M. Golf 1080
 d1ca203e4da54bbdcd653beee41744a1ce10e256
-#EXTINF:-1,tvg-logo="https://www.tutto.blog/guida-tv/img/sky.php?img=209.jpg",DAZN 1 1080
+#EXTINF:-1,tvg-logo="https://www.tutto.blog/guida-tv/img/sky.php?img=209.jpg"group-title="DAZN",DAZN 1 1080
 8ceb8cfc793cfb4e61881b3cb8eef619e236806c
-#EXTINF:-1,DAZN 1 1080
+#EXTINF:-1,group-title="DAZN",DAZN 1 1080
 ad7973215880d12940a75699aa7044839a13a6f1
-#EXTINF:-1,https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpg,DAZN 2 1080
+#EXTINF:-1,#EXTINF:-1,https://www.pay-tv-portal.de/wp-content/uploads/dazn-2.jpggroup-title="DAZN",DAZN 2 1080
 b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3
-#EXTINF:-1,Dazn2 720
+#EXTINF:-1,group-title="DAZN",Dazn2 720
 ab6bcfcd0a9ce7f120d5ee8239ccbbf1659412df
-#EXTINF:-1,tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",DAZN 3
+#EXTINF:-1,tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png"group-title="DAZN",DAZN 3
 bfbcda5a0999256360ce560caf2a6473aafc3f11
-#EXTINF:-1,https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4black.png?ssl=1DAZN 4
+#EXTINF:-1,tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4black.png?ssl=1group-title="DAZN",DAZN 4
 3634ae8e7443f637222e0255f0fc70bf3f050e64
-#EXTINF:-1,tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1.jpg",DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1,tvg-logo="https://www.thebestf1.es/wp-content/uploads/2020/01/DAZN-F1.jpg"group-title="DAZN",DAZN F1 1080 (Fórmula 1)
 1859c0cd3acc2cd17971be7a6425edf9b98ffdf6u
-#EXTINF:-1,DAZN F1 720 (Fórmula 1)
+#EXTINF:-1,group-title="DAZN",DAZN F1 720 (Fórmula 1)
 0eb963333f8561e07fc2bd099deacccbdf317b8d
-#EXTINF:-1,DAZN F1 SD
+#EXTINF:-1,group-title="DAZN",DAZN F1 SD
 4a03e14ec4e40afce24781e7c54ba9e3575dfe0a
-#EXTINF:-1,tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/teleprogramaes/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible.jpg?resize=480:*",GOL TV 1080
+#EXTINF:-1,tvg-logo="https://hips.hearstapps.com/es.h-cdn.co/teleprogramaes/images/programas-tv/2016/junio/gol-mediapro/10699617-1-esl-ES/gol-el-nuevo-canal-deportivo-de-mediapro-ya-esta-disponible.jpg?resize=480:*"group-title="DEPORTES",GOL TV 1080
 6a8f049a502fd77deae06cc91305062555af76e3
-#EXTINF:-1,tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.onsGVq_zan.jpg",EuroSport 1 1080
+#EXTINF:-1,tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.onsGVq_zan.jpg"group-title="DEPORTES",EuroSport 1 1080
 5d330dc46d4e24a8db88ab9945c0595883bd280e
-#EXTINF:-1,tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/7856/brand.gif?itok=xicWQR2Z",EUROSPORT  2 1080
+#EXTINF:-1,tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/7856/brand.gif?itok=xicWQR2Z"group-title="DEPORTES",EUROSPORT  2 1080
 f2c46015fab59944d1f75487fe1ec725f9d74720
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc",Sport Tv 1 1080
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/dOC-QZSgvz3pwKQQjK5x02qAo8Hy78Io57y11u7zZQLWbhrwqRBpKqIPDBaDU7F4LCc"group-title="DEPORTES",Sport Tv 1 1080
 304f4331286501c5a373a71391b8225900ff7849
-#EXTINF:-1,Sport Tv 2 1080
+#EXTINF:-1,group-title="DEPORTES",Sport Tv 2 1080
 b6035d6c3e25776479b5000ece8a080dd8b4c679
-#EXTINF:-1,Sport Tv 3 1080
+#EXTINF:-1,group-title="DEPORTES",Sport Tv 3 1080
 3c81c395fc9385c650e0fba8c286935c594f7e1a
-#EXTINF:-1,0# 1080
+#EXTINF:-1,group-title="TV",0# 1080
 864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1,Eleven Sport 1 720 
+#EXTINF:-1,group-title="DEPORTES",Eleven Sport 1 720 
 73e88a8534c46c9f44e63c3ac7ed21a8c74786f0
-#EXTINF:-1,Gol 1080
+#EXTINF:-1,group-title="DEPORTES",Gol 1080
 6a8f049a502fd77deae06cc91305062555af76e3
 #EXTINF:-1,group-title="EXTERNOS",M. LaLiga MultiAudio
 acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
